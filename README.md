@@ -1,9 +1,22 @@
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 # 優小娜VPN
 # 公告
 1. qq群711094578
 1. 购买请加上面的qq群,入群后请私聊群主
 1. 我们的VPN支持安卓,IOS,Windows,Mac,Ubuntu等主流平台
+
+------------
+
+# 软件和教程下载地址
+|   安卓VPN下载地址:[点击此处下载][1]|安卓教程下载地址:[点击此处下载][4]   |
+| ------------ | ------------ |
+|Windows VPN下载地址：[点击此处下载][2]   |Windows教程下载地址:[点击此处下载][5]   |
+|Mac VPN下载地址:[点击此处下载][3]   |Mac教程和Windows一样，请参考windows使用方式   |
+|苹果(IOS) VPN下载地址:请去app store下载wingy   |苹果IOS教程:[点击此处下载][6]   |
+|Ubuntu VPN请联系群主获得   |Ubuntu教程请联系群主获得   |
+
+
+
+
 
 ------------
 
