@@ -7,11 +7,11 @@
 ------------
 
 # 软件和教程下载地址
-|   安卓VPN下载地址:[点击此处下载][1]|安卓教程下载地址:[点击此处下载][4]   |
+| 安卓VPN下载地址:[点击此处下载](https://share.weiyun.com/5pzZDpl "点击此处下载")|安卓教程下载地址:[点击此处下载](https://share.weiyun.com/5bJ37r0 "点击此处下载")   |
 | ------------ | ------------ |
-|Windows VPN下载地址：[点击此处下载][2]   |Windows教程下载地址:[点击此处下载][5]   |
-|Mac VPN下载地址:[点击此处下载][3]   |Mac教程和Windows一样，请参考windows使用方式   |
-|苹果(IOS) VPN下载地址:请去app store下载wingy   |苹果IOS教程:[点击此处下载][6]   |
+|Windows VPN下载地址：[点击此处下载](https://share.weiyun.com/5aMOLqa "点击此处下载")   |Windows教程下载地址:[点击此处下载](https://share.weiyun.com/58WJn40 "点击此处下载")   |
+|Mac VPN下载地址:[点击此处下载](https://share.weiyun.com/5Ram4Up "点击此处下载")   |Mac教程和Windows一样，请参考windows使用方式   |
+|苹果(IOS) VPN下载地址:请去app store下载wingy   |苹果IOS教程:[点击此处下载](https://share.weiyun.com/5E1jKxb "点击此处下载")   |
 |Ubuntu VPN请联系群主获得   |Ubuntu教程请联系群主获得   |
 
 
