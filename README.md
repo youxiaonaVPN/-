@@ -1,4 +1,4 @@
-<button>666</button>
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 # 優小娜VPN
 # 公告
 1. qq群711094578
